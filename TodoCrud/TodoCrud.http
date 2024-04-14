@@ -1,0 +1,6 @@
+@TodoCrud_HostAddress = http://localhost:5198
+
+GET {{TodoCrud_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
